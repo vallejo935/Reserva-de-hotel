@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "path": "..\\ReservaHotel\\ReservaHotel.slnx",
+    "projects": [
+      "Datos\\Datos.csproj",
+      "Negocio\\Negocio.csproj",
+      "ReservaHotel\\ReservaHotel.csproj"
+    ]
+  }
+}
